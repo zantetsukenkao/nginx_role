@@ -1,1 +1,1 @@
-# nginx_role
+# nginx_exercice
